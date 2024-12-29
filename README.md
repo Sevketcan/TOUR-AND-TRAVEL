@@ -7,6 +7,9 @@ We are a dedicated team passionate about combining blockchain technology with re
 
 ---
 
+## Embedded Link
+
+Explore our platform: [Tour And Travel NFT on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Travels)
 ## Project Details
 
 **Description:**
