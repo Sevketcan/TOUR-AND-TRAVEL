@@ -70,8 +70,8 @@ Our vision is to transform the tourism industry by leveraging the Andromeda Prot
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tour-and-travel-nft.git
-   cd tour-and-travel-nft
+   git clone https://github.com/yourusername/Tour-And-Travel.git
+   cd Tour-And-Travel
    ```
 
 2. **Install Dependencies:**
@@ -84,7 +84,7 @@ Our vision is to transform the tourism industry by leveraging the Andromeda Prot
 
 4. **Deploy Smart Contracts:**
    ```bash
-   andromeda deploy contracts/tourAndTravelNFT.ado
+   andromeda deploy contracts/Tour-And-Travel.ado
    ```
 
 5. **Run the Front-End Application:**
